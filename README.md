@@ -5,11 +5,16 @@
     - Briefly describe its function
     - Explain why it's essential for new engineers (in your own words)
 
-    Answer: '-ls'
+    Answer: 1. '-ls'
     Show all file in directory aka folder.
     Even the hidden files can see(-ls a).
 
     In the terminal, you can't see folders like you do on Windows. -ls is like "Show yourself" in the command line so you know exactly where you are and what files you have to work with.
+           2. '-cd'
+   Command to change directory or navigate between different folders
+
+   Easy to organise and manage directory when you have to dealing with many folders.
+ 
 
 "
 
